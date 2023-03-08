@@ -33,6 +33,19 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
+BAIXEI LARAGON
+APÓS, INSTALEI COMPOSER - VINCULANDO NA PASTA DO PHP DO LARAGON
+DEPOIS, DENTRO DO VS CODE - PELO COMPOSER INSTALEI O LARAVEL 
+
+INICIO DO PROJETO - PASTA DO LARAGON - WWWW - FICA O PROJETO API
+
+
+
+
+
+
+
+
 ### Premium Partners
 
 - **[Vehikl](https://vehikl.com/)**
